@@ -17,7 +17,7 @@ export function Header({ currentPage }: HeaderProps) {
   className="flex items-center gap-3 hover:opacity-80 transition-opacity"
 >
   <img
-    src="/src/images/logo3.png"
+    src="/images/logo3.png"
     alt="GreenStep Logo"
     style={{ height: "54px", width: "auto" }}
   />

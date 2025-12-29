@@ -21,8 +21,8 @@ export function WelcomeScreen() {
             className="flex items-center justify-center gap-4 mb-8"
           >
             <img
-              src="/src/images/clientlogo2.png" // path from public folder
-              alt="My illustration"
+              src="/images/clientlogo2.png" // path from public folder
+              alt="LOGO"
               className="w-25 h-25 object-contain"
             />
           </motion.div>
